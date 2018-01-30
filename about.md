@@ -11,11 +11,27 @@ I’m passionate about applying my knowledge of computer science and machine lea
 
 ### Work-Ex
 
-<img src="{{ site.baseurl }}/images/infosys.jpg" width="200">                   <img src="{{ site.baseurl }}/images/rakuten.jpg" width="200">                  <img src="{{ site.baseurl }}/images/psinc.png" width="200">               
+<img src="{{ site.baseurl }}/images/psinc.png" width="200">   
+            
+* **Engineering Team Lead/Data Scientist** (Sept. 2016~ )
+  - Here so far I have worked for 4 projects
+    - [ValueChain](https://repchecker.io/) : *A machine learning tool which provides deep insight of OTAs reviews.*
+    - [Smart crawler](https://www.slideshare.net/secret/qOfuLjEJ8rsIr0) : *A distributed web crawling system for crawling huge volume of raw data.*
+    - [Price RecSys](https://www.slideshare.net/secret/cN1r3zEFPUe7Rt) : *This is a smart pricing recommendation engine.*   
+    - Data Lake : *It is a centralized repository hosted on Digitalocean which stores all structured, unstructured and semi structure data of the company. We use HDP for data storage, Ambari for cluster management. System is powered with bulk Read api and writing is done by talend.* 
 
-Engineering Team Lead/Data Scientist
-Software Engineer, Big Data Technologies
-System Engineer
+<img src="{{ site.baseurl }}/images/rakuten.jpg" width="200">
+
+* **Software Engineer, Big Data Technologies** (Oct. 2014 - Sept. 2016)
+  - [GSP](https://search.rakuten.co.jp/) : *GSP is a global search platform for almost all of the Rakuten services*
+  - Survey Panda : *It is a PC support helpdesk feedback system.*
+  - [Dynamic Search UI](https://www.rakuten.co.jp/) : *DS is a search UI for rakuten Ichiba*
+
+<img src="{{ site.baseurl }}/images/infosys.jpg" width="200">
+
+* **System Engineer** (Mar. 2011 - Aug. 2012)
+  - Molina Healthcare management : *It was an upgradation project for an existing old healthcare management software of molina.*
+  - Employee swap portal : *A web based swap portal for employees who are interested to swap their posting locations*
 
 ### Books I'd Highly Recommend
 
