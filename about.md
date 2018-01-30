@@ -11,8 +11,11 @@ I’m passionate about applying my knowledge of computer science and machine lea
 
 ### Work-Ex
 
-<img src="{{ site.baseurl }}/images/infosys.jpg" width="250">           <img src="{{ site.baseurl }}/images/rakuten.jpg" width="250">           <img src="{{ site.baseurl }}/images/psinc.png" width="250">
+<img src="{{ site.baseurl }}/images/infosys.jpg" width="200">                   <img src="{{ site.baseurl }}/images/rakuten.jpg" width="200">                  <img src="{{ site.baseurl }}/images/psinc.png" width="200">               
 
+Engineering Team Lead/Data Scientist
+Software Engineer, Big Data Technologies
+System Engineer
 
 ### Books I'd Highly Recommend
 
