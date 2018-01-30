@@ -5,6 +5,7 @@
 // IMPORTS
 //
 
+@import "bootstrap";
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
@@ -25,7 +26,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 1050px;
   padding: 0 10px;
   width: 100%;
 }
@@ -42,6 +43,35 @@ h1, h2, h3, h4, h5, h6 {
   @include mobile {
     line-height: 1.4;
   }
+}
+
+sub, sup {
+  /* Specified in % so that the sup/sup is the
+     right size relative to the surrounding text */
+  font-size: 75%;
+
+  /* Zero out the line-height so that it doesn't
+     interfere with the positioning that follows */
+  line-height: 0;
+
+  /* Where the magic happens: makes all browsers position
+     the sup/sup properly, relative to the surrounding text */
+  position: relative;
+
+  /* Note that if you're using Eric Meyer's reset.css, this
+     is already set and you can remove this rule */
+  vertical-align: baseline;
+}
+
+sup {
+  /* Move the superscripted text up */
+  top: -0.5em;
+}
+
+sub {
+  /* Move the subscripted text down, but only
+     half as far down as the superscript moved up */
+  bottom: -0.25em;
 }
 
 h1 {
@@ -269,6 +299,16 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+}
+
+.gist {
+   max-width:350px;
+   overflow:auto;
+}
+
+.gist .blob-wrapper.data {
+   max-height:400px;
+   overflow:auto;
 }
 
 .wrapper-footer {

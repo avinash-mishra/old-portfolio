@@ -1,2 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://localhost:4000/avinash-mishra.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/avinash-mishra.github.io/" rel="alternate" type="text/html" /><updated>2018-01-30T11:46:58+09:00</updated><id>http://localhost:4000/avinash-mishra.github.io/</id><title type="html">Avinash Mishra</title><subtitle>Data Scientist</subtitle><entry><title type="html">Natural language processing with nltk</title><link href="http://localhost:4000/avinash-mishra.github.io/nlp-with-nltk" rel="alternate" type="text/html" title="Natural language processing with nltk" /><published>2017-10-27T00:00:00+09:00</published><updated>2017-10-27T00:00:00+09:00</updated><id>http://localhost:4000/avinash-mishra.github.io/nlp-with-nltk</id><content type="html" xml:base="http://localhost:4000/avinash-mishra.github.io/nlp-with-nltk">&lt;link href=&quot;https://afeld.github.io/emoji-css/emoji.css&quot; rel=&quot;stylesheet&quot;&gt;
-&lt;img src=&quot;/images/psinc.png&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Text Analysis</summary></entry></feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Avinash Mishra</title>
+		<description>Data Scientist</description>		
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Natural language processing with nltk</title>
+				        
+				
+					<description>Basic nlp</description>
+				
+				<pubDate>Wed, 27 Dec 2017 00:00:00 +0900</pubDate>
+				<link>/nlp-with-nltk</link>
+				<guid isPermaLink="true">/nlp-with-nltk</guid>
+			</item>
+		
+			<item>
+				<title>Tensorflow 1.5 - what you need to know</title>
+				        
+				
+					<description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 29 Jan 2017 00:00:00 +0900</pubDate>
+				<link>/tensorflow-1_5</link>
+				<guid isPermaLink="true">/tensorflow-1_5</guid>
+			</item>
+		
+	</channel>
+</rss>
