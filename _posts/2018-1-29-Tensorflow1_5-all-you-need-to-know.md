@@ -19,7 +19,7 @@ The TensorFlow library has seen many releases since 2015, and Google announced t
 
 This has led to the inclusion of Eager Execution for TensorFlow. It’s available as a preview with the latest build and is available to the general public. With Eager Execution for TensorFlow enabled, users can now execute TensorFlow operations as soon as they are called from Python. Not only does this make it easier for TensorFlow newcomers, it also makes research projects more insightful and intuitive.
 
-You can learn more about Eager Execution here.
+You can learn more about Eager Execution [here](https://github.com/tensorflow/tensorflow/tree/r1.5/tensorflow/contrib/eager).
 
 
 
@@ -27,7 +27,7 @@ You can learn more about Eager Execution here.
 
 The developer preview of TensorFlow Lite is also available as part of the latest release. TensorFlow Lite is TensorFlow’s solution for mobile and embedded devices. With it, you can take a trained TensorFlow model and convert it to a .tflite file. This can then be executed on a mobile device. Let’s say you want to build a model to classify an image. Using TensorFlow Lite, a trained model can be deployed to the mobile device and the image will be classified directly on the device.
 
-You can read more about TensorFlow Lite here.
+You can read more about TensorFlow Lite [here](https://www.tensorflow.org/mobile/tflite/).
 
 
 
